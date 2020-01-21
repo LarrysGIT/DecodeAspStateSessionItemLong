@@ -33,7 +33,7 @@ Key3=Value3
 
 You may get some error like following. The `Key` in the pair may comes from an external type, in my case, I need to put my external dll in the same directory of the script, the script will try to import these dll files.
 
-This is also `-ValueOnly` is introduced, if I am unable to get or import necessary dll files, I still want to extract the value from the data, even if sometime they are meanless.
+This is why the switch `-ValueOnly` is introduced, if I am unable to get or import necessary dll files, I still want to extract the value from the data, even if sometime they are meanless.
 
 ```
 The following exception occurred while trying to enumerate the collection: "Unable to find assembly 'xxxxxxx, Version=1.0.0.0, Culture=neutral, 
