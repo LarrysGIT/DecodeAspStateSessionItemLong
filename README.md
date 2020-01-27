@@ -2,7 +2,7 @@
 
 This is a powershell script to decode data from column `SessionLongItem`
 
-Thanks to https://stackoverflow.com/questions/967497/asp-net-sessionstate-using-sql-server-is-the-data-encrypted/
+Thanks to https://stackoverflow.com/questions/967497/asp-net-sessionstate-using-sql-server-is-the-data-encrypted/1737136#1737136
 
 ## Where is AspSession data stored?
 
